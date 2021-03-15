@@ -1,0 +1,7 @@
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\bin\Debug\PropertyApp.cs.exe.config
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\bin\Debug\PropertyApp.cs.exe
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\bin\Debug\PropertyApp.cs.pdb
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\obj\Debug\PropertyApp.csprojAssemblyReference.cache
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\obj\Debug\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\obj\Debug\PropertyApp.cs.exe
+C:\Users\김현진\source\repos\PropertyApp.cs\PropertyApp.cs\obj\Debug\PropertyApp.cs.pdb
