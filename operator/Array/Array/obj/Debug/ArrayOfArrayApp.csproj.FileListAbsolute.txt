@@ -1,7 +1,0 @@
-C:\Users\김현진\source\repos\Array\Array\bin\Debug\Array.exe.config
-C:\Users\김현진\source\repos\Array\Array\bin\Debug\Array.exe
-C:\Users\김현진\source\repos\Array\Array\bin\Debug\Array.pdb
-C:\Users\김현진\source\repos\Array\Array\obj\Debug\ArrayOfArrayApp.csprojAssemblyReference.cache
-C:\Users\김현진\source\repos\Array\Array\obj\Debug\ArrayOfArrayApp.csproj.CoreCompileInputs.cache
-C:\Users\김현진\source\repos\Array\Array\obj\Debug\Array.exe
-C:\Users\김현진\source\repos\Array\Array\obj\Debug\Array.pdb
